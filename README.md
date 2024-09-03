@@ -14,11 +14,11 @@ Welcome to my simple 2-player Tic Tac Toe game! This app is designed for quick a
 ## Screenshots
 
 ### Victory Screen
-![Victory Screen]![Screenshot 2024-09-04 000801](https://github.com/user-attachments/assets/28064c5f-620e-4647-9cdf-35c0286d1eaa)
+![Screenshot 2024-09-04 000801](https://github.com/user-attachments/assets/28064c5f-620e-4647-9cdf-35c0286d1eaa)
 
 
 ### New Game Screen
-![New Game Screen]![Screenshot 2024-09-04 000722](https://github.com/user-attachments/assets/dac70746-a79e-46a3-98f7-9cc48f7fc378)
+![Screenshot 2024-09-04 000722](https://github.com/user-attachments/assets/dac70746-a79e-46a3-98f7-9cc48f7fc378)
 
 
 ## How to Play
